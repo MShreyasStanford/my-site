@@ -39,8 +39,8 @@ export default function YosemiteMusing() {
         >
           <p>
             Over the course of training for my first official ultramarathon, I thought it might be appropriate to venture to exotic places to complete my long runs.
-            I had previously done a long loop in Yosemite from the valley, so I thought I&#39;d return, with a slightly modified route. A few of my friends I had told had asked me "why?," or "that&#39;s so much effort," or things along those lines.
-            A theme of "if not now, then when" was something I mused over the drive.
+            I had previously done a long loop in Yosemite from the valley, so I thought I&#39;d return, with a slightly modified route. A few of my friends I had told had asked me &quot;why?,&quot; or &quot;that&#39;s so much effort,&quot; or things along those lines.
+            A theme of &quot;if not now, then when&quot; was something I mused over the drive.
             <br />
             <br />
 
@@ -49,7 +49,7 @@ export default function YosemiteMusing() {
             </p>
             <br />
             <p>
-            I decided to begin rather late in the day, entering the park around 6am, and starting my "run"(powerhike) at 7am. I ascended the mist trail, pausing to take a few pictures here and there.
+            I decided to begin rather late in the day, entering the park around 6am, and starting my &quot;run&quot;(powerhike) at 7am. I ascended the mist trail, pausing to take a few pictures here and there.
             </p>
             
 
