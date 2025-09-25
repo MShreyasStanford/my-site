@@ -31,7 +31,7 @@ export default function Landing() {
         <section className="pt-10">
           <motion.div initial="hidden" animate="show" variants={stagger}>
             <motion.h1 variants={fadeIn} className="text-4xl md:text-6xl font-bold tracking-tight leading-tight">
-              Hi, I'm Shreyas — this is a home for things I'm exploring, making, and thinking about.
+              Hi, I&#39;m Shreyas — this is a home for things I&#39;m exploring, making, and thinking about.
             </motion.h1>
             <motion.p variants={fadeIn} className="mt-4 max-w-2xl text-lg opacity-80">
               Notes, sketches, small experiments, and occasional long-form writing. Less resume, more curiosity.
@@ -47,7 +47,7 @@ export default function Landing() {
         <section id="about" className="mt-20">
           <h2 className="text-2xl md:text-3xl font-semibold">About</h2>
           <p className="mt-4 opacity-80 max-w-3xl">
-            I like to learn in public. You'll find half-finished ideas, reading notes, and small tools that make life a little smoother.
+            I like to learn in public. You&#39;ll find half-finished ideas, reading notes, and small tools that make life a little smoother.
             This site is a playground and a scrapbook—updated whenever something catches my eye.
           </p>
         </section>

@@ -39,13 +39,13 @@ export default function YosemiteMusing() {
         >
           <p>
             Over the course of training for my first official ultramarathon, I thought it might be appropriate to venture to exotic places to complete my long runs.
-            I had previously done a long loop in Yosemite from the valley, so I thought I'd return, with a slightly modified route. A few of my friends I had told had asked me "why?," or "that's so much effort," or things along those lines.
+            I had previously done a long loop in Yosemite from the valley, so I thought I&#39;d return, with a slightly modified route. A few of my friends I had told had asked me "why?," or "that&#39;s so much effort," or things along those lines.
             A theme of "if not now, then when" was something I mused over the drive.
             <br />
             <br />
 
-            I left late on the Friday evening prior, and pioneered my idea to camp in the back of my 2015 Honda CR-V. If you put the back seats down, and lay out a mattress, a 6'2" person can barely fit diagonally.
-            It's not the most comfortable night of sleep, but it saves the convenience of setting up a hammock or tent.
+            I left late on the Friday evening prior, and pioneered my idea to camp in the back of my 2015 Honda CR-V. If you put the back seats down, and lay out a mattress, a 6&#39;2" person can barely fit diagonally.
+            It&#39;s not the most comfortable night of sleep, but it saves the convenience of setting up a hammock or tent.
             </p>
             <br />
             <p>
@@ -70,7 +70,7 @@ export default function YosemiteMusing() {
         </div>
         <br />
         <p>
-          The route I had picked took me over Cloud's rest, about ~ 6000 feet from the valley. I couldn't help but notice the significant smoke present.
+          The route I had picked took me over Cloud&#39;s rest, about ~ 6000 feet from the valley. I couldn&#39;t help but notice the significant smoke present.
           The garnet fire was raging nearby, affecting my route into the park, and smoke had blown into the valley and the Yosemite high country.
           A few days later, AQIs of 800+ would force evacuation of park employees.
         </p>
@@ -79,18 +79,18 @@ export default function YosemiteMusing() {
         <figure className="mx-auto max-w-prose my-6">
           <img
             src="/images/musings/IMG_6937.jpg"
-            alt="Trail view near Cloud's Rest"
+            alt="Trail view near Cloud&#39;s Rest"
             className="w-full h-auto rounded-xl"
           />
           <figcaption className="mt-2 text-sm opacity-75 text-center">
-            From the trail towards Cloud's Rest.
+            From the trail towards Cloud&#39;s Rest.
           </figcaption>
         </figure>
 
         {/* User sentence placeholder below 6937 */}
         <p >
           {/* Replace this with your sentence */}
-          I stopped to eat my peanut butter and jelly bagel atop Cloud's Rest. I noted that this was probably the worst visibility over the many times I had been there.
+          I stopped to eat my peanut butter and jelly bagel atop Cloud&#39;s Rest. I noted that this was probably the worst visibility over the many times I had been there.
         </p>
 
         {/* Bagel figure later */}
@@ -143,7 +143,7 @@ export default function YosemiteMusing() {
         </div>
         <p >
           My path takes me through some burn areas. I later read that this was a result of the 2014 Meadow fire, which closed the Sunrise Lakes area, Merced Lake, and my favorite Clouds Rest.
-          It's a little sad to see so much burn damage. It's nice to see small trees and greenery recover as well.
+          It&#39;s a little sad to see so much burn damage. It&#39;s nice to see small trees and greenery recover as well.
         </p>
 
         <figure className="mx-auto max-w-prose my-6">
@@ -185,9 +185,9 @@ export default function YosemiteMusing() {
         <br />
 
         <p >
-          As I move along past the stream, I can't seem to shake various thoughts of my impact on this area. 
+          As I move along past the stream, I can&#39;t seem to shake various thoughts of my impact on this area. 
           Maybe perhaps imperceptibly, I am contributing to warming just to come see it. It saddens me that I struggle to reconcile my personal appreciation of this place and the idea that I must negatively impact it to see it.
-          It's not evident to me what the right way to think about it is. As I near the end of my day, I encounter several people forming almost a line descending the mist trail.
+          It&#39;s not evident to me what the right way to think about it is. As I near the end of my day, I encounter several people forming almost a line descending the mist trail.
           I stop to consider what the total impact of all of us here in the park is. Do we all deserve to admire this beautiful place?
         </p>
 
@@ -236,12 +236,12 @@ export default function YosemiteMusing() {
           <b>A few asides:</b> 
           <br />
           <br />
-          My 2015 CR-V emits ~ 310 grams of CO2 per mile. Assuming a round trip of 350 miles from Yosemite to my home, that's about 109 kg of CO2 emitted from my trip, from driving alone.
-          That's equivalent to approximately 6.5 gallons of milk, meaning that there's a whole lot of milk I need to avoid consuming to offset this trip.
+          My 2015 CR-V emits ~ 310 grams of CO2 per mile. Assuming a round trip of 350 miles from Yosemite to my home, that&#39;s about 109 kg of CO2 emitted from my trip, from driving alone.
+          That&#39;s equivalent to approximately 6.5 gallons of milk, meaning that there&#39;s a whole lot of milk I need to avoid consuming to offset this trip.
         </p>
         <p>
         <br />
-         I don't mean to say that we should not explore and visit our wonderful Earth. I just wonder if there's a way I can do a little better. Perhaps use amtrak, choose more local routes.
+         I don&#39;t mean to say that we should not explore and visit our wonderful Earth. I just wonder if there&#39;s a way I can do a little better. Perhaps use amtrak, choose more local routes.
         </p>
         <br />
         <p>
