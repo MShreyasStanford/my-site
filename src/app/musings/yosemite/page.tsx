@@ -44,7 +44,7 @@ export default function YosemiteMusing() {
             <br />
             <br />
 
-            I left late on the Friday evening prior, and pioneered my idea to camp in the back of my 2015 Honda CR-V. If you put the back seats down, and lay out a mattress, a 6&#39;2" person can barely fit diagonally.
+            I left late on the Friday evening prior, and pioneered my idea to camp in the back of my 2015 Honda CR-V. If you put the back seats down, and lay out a mattress, a 6&#39;2&quot; person can barely fit diagonally.
             It&#39;s not the most comfortable night of sleep, but it saves the convenience of setting up a hammock or tent.
             </p>
             <br />
