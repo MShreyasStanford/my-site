@@ -25,7 +25,7 @@ export default function RootLayout({
         <header className="sticky top-0 z-30 bg-white/70 backdrop-blur dark:bg-neutral-950/70">
           <div className="mx-auto max-w-4xl px-6 py-4 flex items-center justify-between">
             <Link href="/" className="font-semibold tracking-tight">
-              shreyas.dev
+              mshreyas.com
             </Link>
             <nav className="flex items-center gap-4 text-sm">
               <Link href="/" className="opacity-80 hover:opacity-100">
