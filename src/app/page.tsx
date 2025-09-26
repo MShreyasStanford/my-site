@@ -15,18 +15,6 @@ export default function Landing() {
   return (
     <main className="min-h-screen bg-white text-neutral-900 dark:bg-neutral-950 dark:text-neutral-100">
       <div className="mx-auto max-w-4xl px-6 py-20">
-        {/* Header / Nav */}
-        <header className="sticky top-0 z-30 -mx-6 bg-white/70 backdrop-blur dark:bg-neutral-950/70">
-          <div className="mx-auto max-w-4xl px-6 py-4 flex items-center justify-between">
-            <a href="#" className="font-semibold tracking-tight">shreyas.dev</a>
-            <nav className="flex items-center gap-4 text-sm">
-              <a href="/musings" className="opacity-80 hover:opacity-100">Musings</a>
-              <a href="#about" className="opacity-80 hover:opacity-100">About</a>
-              <a href="#contact" className="opacity-80 hover:opacity-100">Contact</a>
-            </nav>
-          </div>
-        </header>
-
         {/* Hero */}
         <section className="pt-10">
           <motion.div initial="hidden" animate="show" variants={stagger}>
