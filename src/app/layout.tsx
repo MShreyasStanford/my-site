@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import Link from "next/link";   // ✅ import Link
 import "./globals.css";
 
 const inter = Inter({
@@ -23,12 +24,22 @@ export default function RootLayout({
       <body className={`${inter.className} antialiased`}>
         <header className="sticky top-0 z-30 bg-white/70 backdrop-blur dark:bg-neutral-950/70">
           <div className="mx-auto max-w-4xl px-6 py-4 flex items-center justify-between">
-            <a href="/" className="font-semibold tracking-tight">shreyas.dev</a>
+            <Link href="/" className="font-semibold tracking-tight">
+              shreyas.dev
+            </Link>
             <nav className="flex items-center gap-4 text-sm">
-              <a href="/" className="opacity-80 hover:opacity-100">Home</a>
-              <a href="/musings" className="opacity-80 hover:opacity-100">Musings</a>
-              <a href="/#about" className="opacity-80 hover:opacity-100">About</a>
-              <a href="/#contact" className="opacity-80 hover:opacity-100">Contact</a>
+              <Link href="/" className="opacity-80 hover:opacity-100">
+                Home
+              </Link>
+              <Link href="/musings" className="opacity-80 hover:opacity-100">
+                Musings
+              </Link>
+              <Link href="/#about" className="opacity-80 hover:opacity-100">
+                About
+              </Link>
+              <Link href="/#contact" className="opacity-80 hover:opacity-100">
+                Contact
+              </Link>
             </nav>
           </div>
         </header>
